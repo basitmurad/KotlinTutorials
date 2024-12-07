@@ -5,5 +5,10 @@ fun main(){
     print(a[3])
     print(a[2])
 
+    val name :Array<String> = arrayOf("ali" , "khan"  , "Rehman" ,"basit")
+
+    for (a in 0 until name.size){
+        println("name is ${name[a]}")
+    }
 
 }

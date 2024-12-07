@@ -13,7 +13,6 @@ Repeats as long as a condition is true.
         a+=1
     }
 
-
     /*
     do-while Loop
 Executes the block of code at least once before checking the condition.
